@@ -1,0 +1,9 @@
+{
+  "name": "rakithub-fe",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/rakithub-fe",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project rakithub-fe --web",
+  "targets": {}
+}

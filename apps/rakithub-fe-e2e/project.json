@@ -1,0 +1,9 @@
+{
+  "name": "rakithub-fe-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/rakithub-fe-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["rakithub-fe"],
+  "// targets": "to see all targets run: nx show project rakithub-fe-e2e --web",
+  "targets": {}
+}
